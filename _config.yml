@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 3
+  limit: 6
   exclude:
     archived: false
     forks: true
@@ -29,20 +29,20 @@ projects:
     # - repo-name
 
 social_media:
-  behance: your_username
-  dribbble: your_username
+  # behance: your_username
+  # dribbble: your_username
   facebook: techsolomon
-  hackerrank: your_username
+  # hackerrank: your_username
   instagram: techsolomon
-  keybase: your_username
+  # keybase: your_username
   linkedin: solomonhimelbloom
   mastodon: your_username
   medium: techsolomon
-  stackoverflow: your_user_id
-  telegram: your_username
+  stackoverflow: 9120318
+  # telegram: your_username
   twitter: techsolomon
-  unsplash: your_username
-  vk: your_username
+  # unsplash: your_username
+  # vk: your_username
   website: https://techsolomon.com/
   youtube: techsolomon
 
