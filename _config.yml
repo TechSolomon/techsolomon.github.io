@@ -1,5 +1,6 @@
 layout: sidebar
-style: light
+style: dark
+github: [metadata]
 
 plugins:
   - jekyll-octicons
@@ -33,10 +34,11 @@ social_media:
   # facebook: techsolomon
   # instagram: techsolomon
   # twitter: techsolomon
-  # youtube: techsolomon
-  # medium: techsolomon
+  youtube: techsolomon
+  medium: techsolomon
   keybase: techsolomon
   stackoverflow: 9120318
+  github: techsolomon
   # behance: your_username
   # dribbble: your_username
   # hackerrank: your_username
